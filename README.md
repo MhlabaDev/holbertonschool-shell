@@ -1,2 +1,0 @@
-# Basics Directory
-# holbertonschool-shell
