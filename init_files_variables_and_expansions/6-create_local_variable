@@ -1,8 +1,2 @@
 #!/bin/bash
-
-my_func() {
-  local BEST="School"
-  echo "$BEST"
-}
-
-my_func
+BEST="School"
