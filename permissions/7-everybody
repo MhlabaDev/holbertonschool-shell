@@ -1,5 +1,4 @@
 #!/bin/bash
-DIR="$(dirname "$0")"
-chmod u+x "$DIR/hello"
-chmod g+x "$DIR/hello"
-chmod o+x "$DIR/hello"
+chmod u+x hello
+chmod g+x hello
+chmod o+x hello
